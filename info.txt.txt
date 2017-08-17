@@ -1,0 +1,7 @@
+Implementado por Antonio Abrantes
+
+Aplicativo para fins didáticos, com o objetivo principal de exercitar os conhecimentos na linguagem C#.
+
+Momentaneamente, apenas o modulo de calculo do conceito das provas presenciais estão implementados.
+
+Qualquer contribuição sera muito bem vindo!

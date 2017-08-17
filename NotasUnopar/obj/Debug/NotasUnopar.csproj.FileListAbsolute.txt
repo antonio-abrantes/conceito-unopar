@@ -1,0 +1,8 @@
+C:\Users\M2\Documents\Visual Studio 2008\Projects\NotasUnopar\NotasUnopar\bin\Debug\NotasUnopar.exe
+C:\Users\M2\Documents\Visual Studio 2008\Projects\NotasUnopar\NotasUnopar\bin\Debug\NotasUnopar.pdb
+C:\Users\M2\Documents\Visual Studio 2008\Projects\NotasUnopar\NotasUnopar\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\M2\Documents\Visual Studio 2008\Projects\NotasUnopar\NotasUnopar\obj\Debug\NotasUnopar.Properties.Resources.resources
+C:\Users\M2\Documents\Visual Studio 2008\Projects\NotasUnopar\NotasUnopar\obj\Debug\NotasUnopar.csproj.GenerateResource.Cache
+C:\Users\M2\Documents\Visual Studio 2008\Projects\NotasUnopar\NotasUnopar\obj\Debug\NotasUnopar.exe
+C:\Users\M2\Documents\Visual Studio 2008\Projects\NotasUnopar\NotasUnopar\obj\Debug\NotasUnopar.pdb
+C:\Users\M2\Documents\Visual Studio 2008\Projects\NotasUnopar\NotasUnopar\obj\Debug\NotasUnopar.frmPrincipal.resources
